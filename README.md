@@ -1,6 +1,7 @@
 # Karmenia Ditabaya Lontoh - Data Analyst
 
 Hi there, I'm Karen! 👋
+
 Welcome to my GitHub profile! I am a dedicated **Data Analyst** with a keen eye for uncovering trends, crafting compelling visualizations, and driving data-driven strategies across diverse industries.
 
 ## About Me
