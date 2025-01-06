@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a dedicated **Data Analyst** with a keen eye 
 ## About Me
 - 🎓 **Education**: Bachelor's Degree in **Information Systems** and **Accounting** from **BINUS University**; **Data Science Bootcamp** at **Hacktiv8**.
 - 🤝 **Looking to Collaborate On**: **Data analysis**, **data visualization**, and building **insightful data-driven solutions**.
-- 🛠️ **Skills**: Proficient in **Python**, **SQL**, **Tableau**, **Power BI**, and data storytelling.
+- 🛠️ **Skills**: Proficient in **Python**, **SQL**, **Tableau**, and data storytelling.
 - 🚀 Passionate about transforming complex data into clear, actionable insights and building effective **end-to-end data solutions**.
 
 ## Highlight Projects
